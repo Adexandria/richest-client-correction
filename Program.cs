@@ -18,9 +18,6 @@
 
 // MULTYDIAMENSION
 
-Console.WriteLine("Hello, World!");
-
-
 int i, j;
 int[,] Input = new int[2, 3];
 
