@@ -17,8 +17,8 @@
 
 
 // MULTYDIAMENSION
-
 int i, j;
+int l,v;
 int[,] Input = new int[2, 3];
 
 for (i = 0; i < 2; i++)
