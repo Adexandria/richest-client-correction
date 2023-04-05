@@ -18,7 +18,7 @@
 
 // MULTYDIAMENSION
 int i, j;
-int l,v;
+int l,v; Console.WriteLine("ENTER THE NUMBER OF CUSTOMERS: ");
 int[,] Input = new int[2, 3];
 
 for (i = 0; i < 2; i++)
